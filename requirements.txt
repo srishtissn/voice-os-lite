@@ -1,0 +1,7 @@
+vosk
+sounddevice
+pyttsx3
+gpt4all
+pyperclip
+pyautogui
+Pillow
